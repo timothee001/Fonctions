@@ -20,8 +20,7 @@ int main(int argc, char * argv)
 
 	int valeur1;
 	int valeur2;
-	//test first
-	//TGEST
+
 	valeur1=composant1(data1,data2);
 
 	valeur2=composant2(data1,data2);
