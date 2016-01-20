@@ -15,7 +15,7 @@ int composant2(int p1, int p2)
 
 int main(int argc, char * argv)
 {
-	int data1=3;
+	int data1=326;
 	int data2=50;
 
 	int valeur1;
